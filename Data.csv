@@ -1,0 +1,1036 @@
+Age,sex,cp,trest,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,target
+Adult,1,0,Normal,Normal,0,1,Normal,1,High,0,0,1,0
+MidleAge,0,1,Normal,High Risk,0,1,High,0,Normal,2,0,2,1
+MidleAge,1,0,Normal,Normal,0,1,Low,1,Normal,1,1,3,0
+Old,1,2,High,Extreme,0,1,Low,1,High,1,1,3,0
+MidleAge,1,2,Normal,Normal,0,1,High,0,Low,2,0,2,1
+MidleAge,1,2,High,High Risk,0,1,Normal,0,High,1,0,2,0
+MidleAge,1,3,Normal,High Risk,0,0,Low,1,Normal,2,1,2,1
+MidleAge,1,0,Normal,Extreme,0,0,High,0,Low,2,0,2,1
+MidleAge,1,0,Normal,Extreme,0,1,Low,1,Low,1,1,3,1
+MidleAge,1,2,Normal,High Risk,0,0,Normal,0,Low,1,1,3,0
+MidleAge,1,0,Normal,High Risk,0,1,High,0,Normal,2,2,3,0
+MidleAge,1,0,High,High Risk,1,0,Normal,1,High,0,0,3,0
+Old,1,0,High,Normal,0,1,Low,1,High,0,0,3,0
+MidleAge,1,0,High,High Risk,0,1,Normal,0,Low,2,1,3,0
+MidleAge,0,0,Normal,Extreme,1,1,Low,0,Normal,1,3,2,0
+MidleAge,0,0,Normal,High Risk,0,0,Low,0,Normal,1,0,2,1
+MidleAge,1,0,Normal,Extreme,0,2,Normal,0,High,0,3,1,0
+MidleAge,1,0,High,Extreme,0,0,Normal,1,Low,1,1,3,0
+MidleAge,1,0,Normal,High Risk,0,0,Normal,0,Low,2,0,3,0
+MidleAge,1,0,Normal,Extreme,0,0,Low,1,High,1,2,2,0
+Old,0,0,Normal,Normal,0,1,Low,0,Normal,1,0,2,1
+Adult,0,0,Normal,Extreme,1,0,Normal,1,High,1,0,3,0
+Adult,0,1,Normal,High Risk,0,1,High,0,Low,2,0,2,1
+MidleAge,1,0,High,Extreme,0,1,Low,1,High,1,3,3,0
+MidleAge,1,0,Normal,High Risk,1,1,Normal,1,Normal,1,0,0,0
+Adult,0,1,Normal,High Risk,0,1,High,0,Low,2,0,2,1
+MidleAge,0,2,High,Extreme,0,0,Normal,0,Normal,2,1,2,1
+MidleAge,1,0,Normal,Extreme,0,0,Low,1,Normal,1,1,3,0
+MidleAge,0,1,Normal,High Risk,0,1,High,0,Normal,2,0,2,1
+MidleAge,1,2,High,High Risk,1,0,High,0,Low,2,0,2,1
+MidleAge,1,2,High,Normal,0,0,Normal,0,High,1,0,2,0
+Old,0,0,Normal,High Risk,0,1,Normal,0,Low,2,2,2,1
+MidleAge,1,0,Normal,High Risk,0,0,Normal,1,High,1,0,2,1
+MidleAge,0,2,Normal,Extreme,0,0,High,0,Low,2,0,2,1
+Adult,0,2,Normal,High Risk,0,1,High,0,Low,1,0,2,1
+MidleAge,0,0,High,Extreme,0,0,Normal,1,Normal,1,0,3,0
+Adult,1,2,Normal,High Risk,0,1,High,1,Low,2,0,2,1
+MidleAge,0,1,Normal,Extreme,1,0,Normal,0,Low,2,2,2,0
+MidleAge,1,2,Normal,Extreme,1,0,Normal,1,Low,1,1,1,0
+MidleAge,0,0,High,Extreme,0,2,Low,1,High,1,0,2,0
+Adult,1,0,Normal,Normal,0,1,Normal,1,High,0,0,1,0
+MidleAge,0,1,Normal,High Risk,0,1,High,0,Normal,2,0,2,1
+MidleAge,1,0,Normal,Normal,0,1,Low,1,Normal,1,1,3,0
+Old,1,2,High,Extreme,0,1,Low,1,High,1,1,3,0
+MidleAge,1,2,Normal,Normal,0,1,High,0,Low,2,0,2,1
+MidleAge,1,2,High,High Risk,0,1,Normal,0,High,1,0,2,0
+MidleAge,1,3,Normal,High Risk,0,0,Low,1,Normal,2,1,2,1
+MidleAge,1,0,Normal,Extreme,0,0,High,0,Low,2,0,2,1
+MidleAge,1,0,Normal,Extreme,0,1,Low,1,Low,1,1,3,1
+MidleAge,1,2,Normal,High Risk,0,0,Normal,0,Low,1,1,3,0
+Old,0,2,High,Extreme,0,0,Normal,0,Low,2,0,2,1
+MidleAge,1,2,Normal,Extreme,0,0,Normal,0,Low,1,0,3,1
+MidleAge,0,0,Normal,Extreme,0,0,High,0,Low,2,0,2,0
+MidleAge,1,0,Normal,High Risk,0,0,Normal,0,Low,2,0,3,0
+MidleAge,0,1,Normal,Extreme,0,1,High,0,Normal,2,0,2,1
+Adult,1,0,High,High Risk,0,1,High,0,Low,2,0,2,1
+Adult,1,1,Normal,High Risk,0,1,Low,0,Low,1,0,1,1
+Old,0,0,High,High Risk,1,1,High,1,Normal,1,2,3,0
+Old,0,2,High,Extreme,0,0,Normal,0,Low,1,1,2,1
+MidleAge,1,0,Normal,High Risk,1,1,Normal,1,Normal,2,2,3,0
+MidleAge,0,3,High,Extreme,1,0,High,0,Normal,2,0,2,1
+MidleAge,0,0,High,High Risk,0,1,Low,1,Low,1,0,3,0
+Adult,1,2,Normal,Normal,0,1,High,0,Low,2,4,2,1
+MidleAge,1,2,Normal,Normal,0,1,Normal,0,Normal,1,3,3,0
+MidleAge,1,0,High,High Risk,0,1,Low,1,High,0,0,3,0
+MidleAge,1,0,High,High Risk,0,1,Low,1,High,0,0,3,0
+MidleAge,1,3,Normal,Normal,0,0,High,0,Normal,1,0,3,1
+MidleAge,1,1,Normal,High Risk,0,0,High,0,Low,1,0,2,1
+Old,1,2,High,High Risk,0,0,Normal,0,Low,1,0,3,0
+MidleAge,1,1,High,High Risk,0,0,High,0,Low,2,1,2,0
+Adult,1,1,Normal,High Risk,0,0,High,0,Low,2,0,2,1
+Old,0,2,High,Extreme,0,0,Normal,0,Low,1,1,2,1
+Old,1,0,Normal,Extreme,0,0,Low,1,Low,1,2,2,0
+MidleAge,1,2,High,High Risk,1,1,Normal,0,Normal,2,0,2,1
+Adult,1,1,Normal,High Risk,0,0,High,0,Low,2,0,2,1
+MidleAge,1,3,High,Extreme,0,0,Normal,0,Low,1,0,3,0
+MidleAge,1,2,Normal,Normal,1,0,Normal,0,Normal,0,0,2,1
+Adult,1,0,Normal,Extreme,0,1,Low,1,Normal,1,0,1,0
+Adult,0,2,Normal,High Risk,0,1,High,0,Low,2,0,2,1
+MidleAge,0,0,High,Normal,0,0,Normal,0,High,0,3,3,0
+MidleAge,1,0,High,Extreme,0,0,Normal,1,High,0,0,3,0
+MidleAge,1,0,High,High Risk,0,0,Normal,1,Normal,2,1,3,0
+MidleAge,1,0,Normal,High Risk,1,0,Normal,1,Normal,1,1,2,0
+MidleAge,1,0,High,Normal,0,1,High,1,Low,2,1,3,0
+MidleAge,1,0,Normal,Extreme,1,0,Normal,1,Low,2,2,3,0
+MidleAge,1,2,Normal,Extreme,0,0,Normal,0,Low,2,0,2,1
+MidleAge,1,2,Normal,Extreme,1,1,High,0,Low,2,2,2,1
+MidleAge,1,0,High,Normal,0,0,Normal,1,High,2,2,3,0
+MidleAge,1,1,Normal,High Risk,0,1,Normal,0,Low,2,1,2,1
+MidleAge,1,1,Normal,High Risk,0,1,Normal,0,Low,2,1,2,1
+MidleAge,1,2,High,High Risk,0,1,High,0,Low,1,1,3,0
+MidleAge,1,2,Normal,Normal,0,0,Low,0,Low,2,3,2,0
+MidleAge,1,2,High,High Risk,0,1,Normal,0,High,1,0,2,0
+Adult,1,2,Normal,Normal,0,1,High,0,Low,2,4,2,1
+Adult,0,2,Normal,High Risk,0,1,High,0,Low,2,0,2,1
+Adult,1,1,Normal,High Risk,0,1,High,0,Low,2,0,2,1
+MidleAge,1,2,High,High Risk,1,0,High,0,Low,2,0,2,1
+MidleAge,0,0,High,High Risk,0,1,Normal,1,Low,1,0,2,0
+MidleAge,0,0,High,Extreme,0,0,Normal,0,High,0,2,2,0
+Old,1,0,High,Normal,1,1,Normal,0,High,1,2,3,0
+MidleAge,0,2,Normal,Extreme,0,0,High,0,Low,2,0,2,1
+MidleAge,0,0,Normal,High Risk,0,1,High,0,Low,2,0,2,1
+MidleAge,1,0,High,Normal,0,0,Normal,1,High,2,2,3,0
+Adult,1,0,Normal,Normal,0,1,Normal,1,High,0,0,1,0
+MidleAge,1,1,Normal,High Risk,1,0,Normal,0,Low,2,0,2,1
+MidleAge,0,0,Normal,High Risk,0,0,Normal,1,Low,1,0,2,1
+MidleAge,0,0,Normal,Extreme,0,0,Normal,0,Low,2,1,2,1
+MidleAge,1,0,Normal,Extreme,0,1,Low,1,Normal,1,2,3,0
+Old,1,0,Normal,High Risk,0,0,Normal,0,Low,2,2,1,0
+Old,0,2,High,Normal,0,2,Low,0,Normal,1,0,2,1
+Adult,0,2,Normal,High Risk,0,1,High,0,Low,1,0,2,1
+MidleAge,1,2,High,Normal,1,1,High,0,Low,2,1,3,1
+MidleAge,1,1,Normal,Extreme,0,1,Normal,0,Low,2,0,3,1
+MidleAge,1,2,Normal,Extreme,0,0,Normal,0,Low,2,0,2,1
+MidleAge,1,3,Normal,Normal,0,0,High,0,Low,1,0,1,1
+MidleAge,1,0,Normal,Extreme,0,0,Low,1,Normal,1,1,2,0
+MidleAge,1,0,High,Extreme,0,1,High,1,Normal,2,0,3,0
+MidleAge,1,1,Normal,Extreme,0,0,Low,0,Normal,1,1,3,0
+Adult,1,0,High,High Risk,0,1,High,0,Low,2,0,3,0
+MidleAge,1,0,Normal,High Risk,0,0,Low,1,Low,1,1,2,0
+Adult,1,0,Normal,Normal,0,0,High,0,Low,2,1,2,0
+MidleAge,1,0,High,High Risk,0,0,Low,1,Low,2,0,3,1
+MidleAge,1,0,Normal,Extreme,1,0,Normal,1,Low,2,2,3,0
+MidleAge,1,0,Normal,Extreme,0,1,Normal,1,High,1,1,3,0
+MidleAge,1,2,Normal,High Risk,1,1,Low,0,Normal,1,1,1,0
+MidleAge,0,0,High,Extreme,0,0,Normal,1,Normal,1,0,3,0
+MidleAge,1,0,Normal,Extreme,0,0,Normal,0,Normal,1,1,3,0
+Adult,1,0,Normal,Normal,0,0,Low,1,High,1,0,3,0
+Adult,1,1,Normal,High Risk,0,0,High,0,Low,2,0,2,1
+Adult,1,1,Normal,Extreme,0,1,High,0,Low,2,0,2,1
+MidleAge,1,1,Normal,Extreme,0,1,Normal,0,Low,2,0,3,1
+Adult,1,0,Normal,Normal,0,1,Normal,1,High,0,0,1,0
+MidleAge,1,0,High,Extreme,0,0,Normal,1,High,1,2,3,0
+Old,0,2,High,Extreme,1,0,Normal,0,Low,2,1,2,1
+MidleAge,1,0,Normal,Extreme,0,1,Normal,1,High,1,1,3,0
+MidleAge,0,3,High,High Risk,0,1,High,0,Low,2,0,2,1
+Old,1,0,Normal,Extreme,0,0,Normal,0,Low,1,0,2,1
+MidleAge,1,2,Normal,Normal,1,0,Normal,0,Normal,0,0,2,1
+MidleAge,1,2,Normal,High Risk,0,1,High,0,Low,2,4,2,1
+MidleAge,1,0,High,Normal,0,1,Normal,0,Low,1,0,1,1
+MidleAge,0,3,High,High Risk,0,1,High,0,Low,2,0,2,1
+MidleAge,0,2,Normal,Extreme,0,0,Normal,0,Low,2,0,2,1
+Adult,1,1,Normal,High Risk,0,1,Low,0,Low,1,0,1,1
+MidleAge,1,2,Normal,Normal,0,1,High,0,Low,2,0,2,1
+MidleAge,1,1,Normal,Extreme,0,1,Normal,0,Low,2,0,3,1
+MidleAge,0,0,High,High Risk,1,0,Normal,1,High,1,2,1,0
+MidleAge,0,1,Normal,Extreme,0,1,High,0,Normal,2,0,2,1
+MidleAge,0,0,High,Extreme,0,1,Normal,1,Low,2,0,2,1
+MidleAge,1,2,Normal,Extreme,0,0,Normal,0,Low,2,0,2,1
+Adult,1,1,Normal,High Risk,0,1,Normal,0,Low,2,0,2,1
+MidleAge,1,0,High,Extreme,0,1,Low,1,Normal,1,1,3,0
+MidleAge,0,0,Normal,Normal,0,1,Normal,1,Low,1,0,2,0
+MidleAge,1,3,Normal,High Risk,0,1,Normal,0,High,1,2,2,0
+Adult,1,3,Normal,Normal,0,0,High,0,Low,2,0,2,1
+MidleAge,1,0,Normal,High Risk,0,1,Normal,0,Low,2,0,2,1
+Adult,1,0,Normal,Normal,0,0,Low,1,Normal,1,0,3,0
+MidleAge,0,2,Normal,Extreme,0,0,Normal,0,Low,2,0,2,1
+Adult,1,0,Normal,Normal,0,0,Normal,0,Low,2,0,3,0
+MidleAge,1,3,High,Extreme,1,1,High,0,Normal,1,0,3,1
+Adult,1,2,High,Extreme,0,0,High,0,Low,2,0,2,1
+MidleAge,1,0,Normal,Extreme,0,2,Normal,0,High,0,3,1,0
+MidleAge,1,1,High,Extreme,0,0,High,0,Low,2,1,3,0
+MidleAge,1,0,Normal,Extreme,0,0,High,0,Low,2,2,3,0
+MidleAge,1,2,Normal,Extreme,0,0,Normal,0,Low,1,0,3,1
+MidleAge,1,0,Normal,Extreme,1,0,Low,1,Normal,2,3,3,0
+MidleAge,1,1,Normal,Extreme,0,1,Normal,0,Low,2,0,3,1
+Adult,1,3,High,Normal,0,1,High,1,Normal,2,0,3,1
+MidleAge,1,2,Normal,Extreme,0,0,Normal,0,Low,1,0,3,1
+Old,0,2,Normal,Extreme,0,0,Normal,0,Normal,1,0,3,1
+Adult,1,1,Normal,Normal,0,1,High,0,Low,2,0,2,1
+Old,1,0,Normal,Extreme,0,0,High,1,Low,2,3,2,0
+MidleAge,1,2,Normal,High Risk,0,1,Normal,1,Normal,1,0,2,1
+Old,1,0,Normal,Extreme,0,0,High,1,Low,2,3,2,0
+MidleAge,1,0,Normal,Extreme,0,0,High,0,Low,1,0,3,0
+MidleAge,1,0,Normal,High Risk,1,0,Normal,1,Normal,1,1,2,0
+MidleAge,1,0,High,Extreme,0,0,Normal,1,High,0,0,3,0
+MidleAge,1,0,Normal,Normal,0,0,Low,1,Normal,1,1,1,0
+MidleAge,0,0,Normal,Extreme,0,1,High,1,Low,2,0,2,1
+Adult,1,2,Normal,Extreme,0,1,High,0,Normal,2,1,2,1
+MidleAge,0,1,Normal,Normal,0,1,Normal,0,Low,1,0,2,1
+Adult,1,0,High,High Risk,0,1,High,0,Normal,2,0,2,1
+MidleAge,1,0,Normal,Extreme,1,0,Low,1,Normal,0,0,3,0
+MidleAge,1,1,Normal,High Risk,0,1,High,0,Low,0,0,2,1
+Adult,0,2,Low,Normal,0,1,High,0,Low,2,0,2,1
+MidleAge,1,0,Normal,High Risk,0,1,Low,1,High,1,1,3,0
+MidleAge,0,0,High,Extreme,1,0,Low,1,High,0,2,3,0
+MidleAge,1,0,Normal,Extreme,1,0,Low,1,Normal,0,0,3,0
+MidleAge,1,0,Normal,High Risk,0,0,Low,1,Normal,0,1,2,0
+Adult,1,0,Normal,Normal,0,0,High,0,Low,2,1,2,0
+MidleAge,0,0,Normal,Extreme,0,0,Normal,1,Normal,1,2,3,0
+MidleAge,1,0,High,Normal,0,0,Normal,1,High,2,2,3,0
+MidleAge,1,3,Normal,High Risk,0,0,Normal,1,Normal,1,0,2,1
+MidleAge,1,0,High,Extreme,0,0,High,0,Normal,1,2,3,0
+Adult,1,2,Normal,Normal,0,1,Normal,0,Low,2,0,2,1
+MidleAge,1,1,Normal,Extreme,0,0,High,0,Low,2,0,2,1
+MidleAge,1,0,High,Extreme,1,0,Low,0,Normal,1,3,3,0
+Adult,1,0,Normal,Normal,0,0,Low,1,Normal,1,0,3,0
+MidleAge,1,0,Normal,High Risk,1,0,Normal,1,Normal,1,1,2,0
+MidleAge,1,0,Normal,Extreme,0,0,Normal,0,Normal,1,1,3,0
+MidleAge,1,2,Normal,Extreme,0,1,Low,1,Normal,1,0,3,0
+Adult,1,2,Normal,Extreme,0,1,High,0,Low,2,0,2,1
+MidleAge,1,1,Normal,High Risk,0,0,High,0,Low,2,0,3,1
+Old,0,2,Normal,Extreme,0,0,Normal,0,Normal,1,0,3,1
+Old,1,3,High,High Risk,1,0,Low,0,Low,1,1,2,1
+Old,1,0,High,Extreme,0,0,Low,1,Normal,1,3,2,0
+MidleAge,1,2,High,High Risk,1,1,Normal,0,Normal,2,0,2,1
+MidleAge,1,0,Normal,High Risk,0,1,Normal,0,Low,2,1,3,0
+MidleAge,1,0,Normal,Extreme,0,0,High,0,Low,2,0,2,1
+MidleAge,0,2,Normal,Extreme,0,1,Normal,0,Low,2,1,2,1
+MidleAge,1,0,High,High Risk,0,0,Low,1,Low,1,0,3,0
+MidleAge,0,0,Normal,High Risk,0,1,High,0,Low,2,0,2,1
+Adult,1,3,Normal,Normal,0,0,High,0,Low,2,0,2,1
+MidleAge,1,3,High,Extreme,1,1,High,0,Normal,1,0,3,1
+MidleAge,1,3,High,High Risk,0,0,Normal,0,Low,1,0,3,1
+Old,0,2,High,Extreme,0,0,Normal,0,Low,1,1,2,1
+Adult,1,3,High,High Risk,0,0,High,0,Low,2,2,2,1
+MidleAge,1,2,Normal,High Risk,1,1,Low,0,Normal,1,1,1,0
+Adult,1,2,Normal,Extreme,0,1,High,0,Low,2,0,2,1
+Adult,1,2,Normal,Normal,0,1,High,0,Low,2,4,2,1
+MidleAge,1,1,Normal,Extreme,0,0,Low,0,Normal,1,1,3,0
+Adult,1,2,Normal,High Risk,1,1,High,0,Low,0,0,3,1
+Old,1,0,Normal,Extreme,0,0,Low,1,Low,1,2,2,0
+MidleAge,1,0,High,High Risk,0,0,Low,0,High,1,0,3,0
+Adult,1,2,Normal,Extreme,0,1,High,0,Normal,2,1,2,1
+MidleAge,1,1,Normal,Extreme,0,0,High,0,Low,2,0,2,1
+MidleAge,1,1,Normal,Extreme,0,1,High,0,Low,2,0,2,1
+Old,1,0,Normal,Extreme,0,0,Low,0,High,1,1,3,0
+Adult,1,1,Normal,Normal,0,1,High,0,Low,2,0,2,1
+MidleAge,1,0,High,Extreme,0,1,Low,1,Normal,1,2,3,0
+MidleAge,1,0,Normal,Extreme,0,0,Low,1,High,1,2,2,0
+MidleAge,0,1,Normal,High Risk,0,0,High,0,Low,1,1,2,0
+MidleAge,1,0,Normal,Extreme,0,0,Normal,0,Normal,1,1,3,0
+MidleAge,1,3,Normal,High Risk,0,0,Normal,1,Normal,1,0,2,1
+Adult,0,2,Low,Normal,0,1,High,0,Low,2,0,2,1
+MidleAge,1,0,High,Extreme,0,0,High,1,Low,2,0,2,1
+MidleAge,1,2,High,High Risk,0,0,High,0,Normal,2,0,3,1
+MidleAge,1,2,Normal,Normal,0,0,Low,0,Low,2,3,2,0
+Adult,0,2,Normal,High Risk,0,1,Normal,0,Low,1,1,2,1
+MidleAge,1,1,Normal,High Risk,1,1,High,0,Low,2,0,2,1
+Old,0,0,High,High Risk,1,1,High,1,Normal,1,2,3,0
+MidleAge,1,0,Normal,Extreme,0,0,High,0,Low,2,2,3,0
+MidleAge,1,1,Normal,High Risk,0,1,High,0,Low,2,0,2,1
+MidleAge,1,0,Normal,Extreme,0,0,Normal,1,High,1,1,3,0
+Adult,0,1,Normal,Extreme,0,1,High,0,Low,2,0,2,1
+MidleAge,0,0,Normal,Extreme,0,1,High,0,Low,2,0,2,1
+MidleAge,1,3,High,High Risk,0,0,Normal,0,Low,1,0,3,1
+MidleAge,1,2,Normal,Normal,0,0,Low,0,Low,2,3,2,0
+MidleAge,1,1,Normal,Extreme,0,1,Normal,0,Low,2,0,3,0
+MidleAge,1,0,Normal,High Risk,1,1,Normal,1,Normal,2,2,3,0
+MidleAge,0,0,High,High Risk,0,1,Normal,1,Normal,1,0,2,0
+MidleAge,0,1,Normal,Extreme,1,0,Normal,1,Low,2,1,2,1
+Old,1,2,High,High Risk,0,0,Normal,0,Low,1,0,3,0
+Adult,1,2,Normal,Normal,0,1,High,0,Low,2,4,2,1
+MidleAge,1,2,High,Normal,0,0,Normal,0,High,1,0,2,0
+MidleAge,1,2,Normal,High Risk,1,0,High,0,Normal,1,0,2,1
+Adult,1,1,Normal,High Risk,0,0,High,0,Low,2,0,2,1
+MidleAge,1,1,High,Extreme,0,0,High,0,Low,2,1,3,0
+MidleAge,1,0,High,Extreme,0,1,Low,1,Normal,1,2,3,0
+Adult,0,2,Normal,High Risk,0,1,Normal,0,Low,1,0,2,1
+Adult,1,2,Normal,Normal,0,1,Normal,0,Low,2,0,2,1
+MidleAge,1,0,Normal,Extreme,0,0,Low,1,Normal,1,1,2,0
+MidleAge,0,1,Normal,Normal,0,1,Normal,0,Low,1,0,2,1
+MidleAge,1,0,Normal,Extreme,0,1,Low,1,Normal,1,1,3,0
+MidleAge,1,0,High,Extreme,1,0,Low,0,Normal,1,3,3,0
+Adult,1,0,Normal,Normal,0,1,Low,1,Normal,1,0,3,0
+MidleAge,0,0,High,Extreme,0,0,Normal,0,Normal,1,0,2,1
+Adult,0,0,Normal,Normal,0,1,High,0,Normal,2,0,2,1
+MidleAge,0,0,High,Extreme,0,1,Normal,1,Low,2,0,2,1
+Adult,1,3,Normal,High Risk,0,1,High,1,High,1,0,3,0
+Old,1,0,Normal,Extreme,0,0,Normal,0,Low,1,0,2,1
+Adult,1,2,Normal,High Risk,0,1,High,0,Low,2,0,2,1
+MidleAge,1,2,High,High Risk,0,0,High,0,Normal,2,0,3,1
+MidleAge,1,0,Normal,High Risk,0,0,High,0,Low,2,0,2,1
+MidleAge,0,1,Normal,Extreme,0,1,High,0,Normal,2,0,2,1
+MidleAge,0,0,High,High Risk,1,0,Normal,1,High,1,2,1,0
+MidleAge,1,0,Normal,High Risk,0,0,Normal,1,High,1,0,2,1
+MidleAge,1,0,Normal,Extreme,0,1,Low,1,Normal,1,2,3,0
+Old,1,0,Normal,High Risk,0,1,Low,0,Normal,1,0,2,0
+MidleAge,1,2,Normal,High Risk,0,0,High,0,High,2,2,3,0
+Old,0,2,Normal,Extreme,1,0,Low,0,Low,2,1,2,1
+Adult,1,0,Normal,High Risk,0,1,Normal,0,Low,2,0,3,1
+Adult,1,1,Normal,Extreme,0,1,High,0,Low,2,0,3,1
+Adult,0,2,Normal,High Risk,0,1,Normal,0,Low,1,0,2,1
+MidleAge,1,0,Normal,High Risk,0,0,Low,1,Low,1,1,2,0
+Old,1,0,High,High Risk,0,0,Normal,0,Normal,2,0,1,1
+MidleAge,1,0,Normal,Extreme,1,0,Low,1,Normal,0,0,3,0
+MidleAge,1,0,Normal,High Risk,0,1,High,1,Low,2,0,3,1
+Adult,1,1,Normal,High Risk,0,0,High,0,Low,2,0,2,1
+MidleAge,1,0,High,Extreme,0,0,Normal,1,Low,1,1,3,0
+Adult,0,1,Normal,Normal,0,1,High,0,Low,2,1,2,1
+MidleAge,0,1,Normal,High Risk,0,0,High,0,Low,1,0,2,1
+Adult,1,1,Normal,Normal,0,1,High,0,Low,2,0,2,1
+Adult,0,1,Normal,High Risk,0,0,High,0,Normal,2,0,2,1
+MidleAge,1,3,Normal,High Risk,0,0,Normal,1,Normal,1,0,2,1
+MidleAge,1,2,Normal,High Risk,0,0,High,0,High,2,2,3,0
+Old,0,2,Normal,Extreme,1,0,Low,0,Low,2,1,2,1
+MidleAge,0,2,High,Extreme,0,1,Low,0,Low,2,0,3,1
+Old,0,1,High,Extreme,0,1,High,0,Low,2,2,2,1
+MidleAge,0,2,Normal,Extreme,0,1,High,0,Low,2,0,2,1
+Adult,1,0,High,High Risk,0,1,High,0,Low,2,0,3,0
+MidleAge,1,2,Normal,High Risk,0,1,High,0,Low,2,4,2,1
+MidleAge,1,0,Normal,Extreme,0,0,Low,1,High,1,2,3,0
+MidleAge,1,2,High,High Risk,1,1,Normal,1,Normal,1,0,2,1
+MidleAge,1,2,High,High Risk,1,1,Normal,0,Normal,2,0,2,1
+MidleAge,0,0,High,Extreme,1,0,Low,1,High,0,2,3,0
+Old,1,0,Normal,Extreme,0,0,Low,1,Low,1,2,2,0
+Old,1,0,Normal,High Risk,0,1,Low,0,Normal,1,0,2,0
+MidleAge,1,0,High,Extreme,0,0,Low,1,Low,2,0,3,0
+Adult,1,1,Normal,Normal,0,1,High,0,Low,2,0,2,1
+MidleAge,1,1,Normal,Extreme,0,1,High,0,Low,2,0,2,1
+MidleAge,0,1,Normal,High Risk,0,1,High,0,Low,2,0,2,1
+MidleAge,1,2,Low,High Risk,0,1,Normal,1,Low,2,1,3,1
+MidleAge,0,1,Normal,Extreme,0,1,High,0,Normal,2,0,2,1
+MidleAge,1,0,High,Extreme,0,0,Normal,1,High,1,2,3,0
+MidleAge,0,2,Normal,Normal,0,0,High,0,Low,1,0,2,1
+MidleAge,1,0,Normal,Extreme,0,1,Low,1,Normal,1,2,3,0
+Adult,0,2,Normal,High Risk,0,1,Normal,0,Low,1,1,2,1
+Adult,1,1,Normal,High Risk,0,1,High,0,Low,2,0,2,1
+MidleAge,1,2,Normal,High Risk,1,1,Low,0,Normal,1,1,1,0
+MidleAge,0,1,High,Extreme,0,0,Normal,0,Normal,1,0,2,1
+MidleAge,1,0,Normal,Extreme,0,1,Normal,1,High,1,1,3,0
+MidleAge,1,0,Normal,Extreme,1,0,Normal,1,Low,2,2,3,0
+Old,1,2,High,Extreme,0,1,Low,1,High,1,1,3,0
+Old,0,1,Normal,Extreme,0,0,Low,1,Low,2,1,2,1
+Adult,1,3,High,Normal,0,1,High,1,Normal,2,0,3,1
+Adult,1,3,High,High Risk,0,0,High,0,Low,2,2,2,1
+MidleAge,0,2,High,Extreme,0,1,Low,0,Low,2,0,3,1
+MidleAge,0,2,Normal,Extreme,0,0,High,0,Low,2,0,2,1
+MidleAge,1,0,High,Normal,0,1,High,1,Low,2,1,3,0
+MidleAge,0,2,Normal,High Risk,0,0,Low,0,Low,2,0,0,1
+MidleAge,0,0,Normal,Extreme,0,0,Normal,0,Low,1,0,2,1
+MidleAge,0,2,Normal,Extreme,0,1,Normal,0,Low,2,0,2,1
+MidleAge,1,0,High,Extreme,0,0,Normal,1,Low,1,3,3,0
+Old,1,1,High,High Risk,0,1,Low,1,Low,1,3,1,0
+MidleAge,1,1,Normal,High Risk,0,0,High,0,Low,1,0,2,1
+MidleAge,0,1,High,Extreme,0,0,Normal,0,Normal,1,0,2,1
+MidleAge,1,1,High,Extreme,0,0,High,0,Low,2,1,3,0
+MidleAge,1,0,High,Extreme,0,0,Low,1,Low,1,1,1,0
+Old,1,0,Normal,Extreme,0,0,Low,0,Normal,1,3,2,0
+MidleAge,0,2,Normal,High Risk,0,0,Low,0,Low,2,0,0,1
+Adult,0,2,Normal,High Risk,0,1,High,0,Low,2,0,2,1
+MidleAge,0,0,Normal,Extreme,0,1,High,1,Normal,1,2,2,0
+Adult,1,2,Normal,Extreme,0,1,High,0,High,0,0,2,1
+MidleAge,0,2,Normal,High Risk,0,1,Normal,0,Normal,1,0,2,1
+MidleAge,1,0,Normal,High Risk,0,0,Low,1,Normal,1,2,3,0
+MidleAge,1,0,High,Extreme,0,0,Low,1,Low,2,0,3,0
+MidleAge,1,2,High,Normal,1,1,High,0,Low,2,1,3,1
+MidleAge,1,2,Normal,Extreme,0,0,Normal,0,Low,0,1,2,1
+MidleAge,1,2,Normal,Extreme,1,0,Normal,1,Low,1,1,1,0
+MidleAge,1,0,Normal,Extreme,0,1,Normal,1,Normal,2,1,3,0
+Adult,1,2,Normal,Normal,0,1,High,0,Low,2,4,2,1
+Adult,1,2,Normal,High Risk,0,1,High,0,Low,2,0,2,1
+Old,0,2,High,Extreme,0,1,Normal,0,Low,2,0,2,1
+MidleAge,1,2,High,Normal,1,1,High,0,Low,2,0,3,1
+Adult,1,1,Normal,Normal,0,1,High,0,Low,2,0,2,1
+Old,1,1,High,High Risk,0,1,Low,1,Low,1,3,1,0
+MidleAge,1,0,High,High Risk,0,0,Low,0,High,1,0,3,0
+MidleAge,0,2,Normal,Extreme,0,0,High,0,Low,2,0,2,1
+Adult,1,0,Normal,High Risk,1,0,Normal,1,Low,1,4,3,0
+MidleAge,0,2,Normal,Extreme,0,1,Low,0,Normal,1,1,3,0
+Old,1,0,Normal,Extreme,0,0,Normal,0,Low,1,0,2,1
+MidleAge,1,0,High,High Risk,0,0,Low,1,Low,1,0,3,0
+MidleAge,1,0,Normal,Extreme,0,1,Normal,1,High,1,1,3,0
+MidleAge,1,0,Normal,High Risk,0,1,Low,1,Normal,1,0,1,1
+MidleAge,1,1,Normal,Extreme,0,1,Normal,0,Low,2,0,3,0
+MidleAge,0,0,Normal,High Risk,0,0,Normal,1,Low,1,0,2,1
+MidleAge,1,0,High,Normal,1,0,Low,0,Normal,1,2,1,0
+Old,1,0,High,Extreme,0,0,Low,1,Normal,1,3,2,0
+MidleAge,1,3,Normal,High Risk,0,1,High,0,Low,2,2,2,0
+MidleAge,0,2,Normal,High Risk,0,0,Low,0,Low,2,0,0,1
+MidleAge,1,0,Normal,High Risk,0,0,High,0,Low,2,0,2,1
+MidleAge,1,2,Normal,High Risk,0,1,Normal,0,Normal,1,3,3,1
+Adult,0,2,Normal,High Risk,0,1,High,0,Low,1,0,2,1
+MidleAge,1,2,Normal,High Risk,1,0,High,0,Low,2,3,2,1
+MidleAge,0,1,Normal,High Risk,0,0,High,0,Low,1,1,2,0
+MidleAge,1,2,Normal,High Risk,1,0,High,0,Low,2,3,2,1
+MidleAge,1,2,Normal,High Risk,0,0,High,0,High,1,1,3,0
+MidleAge,1,1,Normal,High Risk,0,1,High,0,Normal,0,0,3,0
+MidleAge,1,2,Normal,High Risk,0,0,Normal,1,Low,1,0,3,1
+MidleAge,1,2,Normal,Normal,0,1,Low,0,Low,2,0,2,1
+Adult,0,0,Normal,Extreme,1,0,Normal,1,High,1,0,3,0
+MidleAge,1,0,Normal,Extreme,0,1,Low,1,Normal,1,1,3,0
+MidleAge,0,2,Normal,High Risk,0,1,Normal,0,Normal,1,0,2,1
+MidleAge,1,1,Normal,Extreme,0,0,Normal,0,Normal,1,0,2,0
+MidleAge,0,2,High,Normal,0,0,Normal,1,Normal,0,0,2,1
+Old,1,0,High,High Risk,0,0,Normal,0,Normal,2,0,1,1
+MidleAge,1,1,High,High Risk,0,1,High,1,Low,2,0,2,1
+MidleAge,0,0,Normal,Extreme,0,1,Low,0,Normal,1,2,2,1
+Old,1,0,Normal,High Risk,0,1,Low,0,Normal,1,0,2,0
+MidleAge,1,3,Normal,Normal,0,0,High,0,Low,1,0,1,1
+MidleAge,1,0,High,High Risk,0,1,Low,0,Normal,1,1,3,0
+MidleAge,1,2,Normal,High Risk,0,0,High,0,High,2,2,3,0
+MidleAge,1,0,Normal,High Risk,0,0,Normal,1,Normal,1,1,3,0
+MidleAge,1,0,High,Extreme,0,0,Low,1,Low,2,0,3,0
+Adult,1,0,Normal,Extreme,0,0,Normal,1,Low,2,0,3,0
+MidleAge,1,2,Normal,Normal,0,1,Low,0,Low,2,0,2,1
+Adult,0,2,Normal,High Risk,0,1,High,0,Low,1,0,2,1
+Old,1,0,Normal,Extreme,0,0,High,1,Low,2,3,2,0
+MidleAge,1,0,Normal,High Risk,0,0,Low,1,Normal,0,1,2,0
+MidleAge,1,3,High,High Risk,1,0,Normal,0,Normal,0,0,1,1
+MidleAge,0,1,Normal,Extreme,1,0,Normal,0,Low,2,2,2,0
+MidleAge,1,3,Normal,Extreme,0,1,Low,0,Normal,1,0,3,0
+MidleAge,1,2,Normal,Normal,0,1,Low,0,Low,2,0,2,1
+MidleAge,0,0,High,Normal,0,0,Normal,0,High,0,3,3,0
+MidleAge,1,0,Normal,Extreme,1,0,Low,1,Normal,2,3,3,0
+Old,0,2,High,Extreme,0,0,Normal,0,Low,1,1,2,1
+Old,1,2,High,Extreme,1,0,Normal,1,Normal,1,0,3,0
+Adult,1,0,Normal,Normal,0,0,Low,1,Normal,1,0,3,0
+Old,1,0,High,High Risk,0,0,Normal,0,Normal,2,0,1,1
+MidleAge,1,3,High,High Risk,1,0,Normal,0,Normal,0,0,1,1
+MidleAge,1,2,Normal,Normal,0,1,Normal,0,Normal,1,3,3,0
+Old,0,0,Normal,Normal,0,1,Low,0,Normal,1,0,2,1
+Old,1,1,High,High Risk,0,0,Normal,0,Low,2,0,2,1
+MidleAge,0,1,Normal,High Risk,0,1,High,0,Low,2,0,2,1
+MidleAge,1,0,High,High Risk,0,0,Normal,1,Normal,2,1,3,0
+MidleAge,1,2,Normal,Extreme,1,0,Normal,1,Low,1,1,1,0
+MidleAge,1,2,High,High Risk,1,0,High,0,Low,2,0,2,1
+MidleAge,1,0,Normal,High Risk,0,1,Normal,0,Low,2,1,3,0
+MidleAge,0,0,Normal,High Risk,0,0,Normal,1,Low,1,0,2,1
+MidleAge,1,2,High,High Risk,0,1,Normal,0,High,1,0,2,0
+Adult,0,1,Normal,Normal,0,1,High,0,Low,2,1,2,1
+MidleAge,1,0,Normal,High Risk,1,0,Normal,1,Normal,1,1,2,0
+MidleAge,1,0,High,Extreme,0,0,Low,1,Low,1,1,1,0
+Old,1,0,Normal,Extreme,0,0,Low,0,Normal,1,3,2,0
+MidleAge,1,3,High,Extreme,0,0,Normal,0,Low,1,0,3,0
+Adult,0,1,Normal,High Risk,0,0,High,0,Normal,2,0,2,1
+MidleAge,1,2,Normal,Extreme,0,0,Normal,0,Low,0,1,2,1
+MidleAge,1,2,Normal,High Risk,0,1,High,0,Low,2,4,2,1
+MidleAge,0,0,Normal,High Risk,0,1,High,0,Low,2,0,2,1
+Old,0,2,High,Extreme,0,0,Normal,0,Low,2,0,2,1
+MidleAge,0,0,Normal,Extreme,0,0,Normal,0,Low,2,1,2,1
+Adult,0,0,Normal,Extreme,0,0,Low,0,Low,1,0,2,1
+MidleAge,0,0,Normal,Extreme,0,1,High,1,Low,2,0,2,1
+MidleAge,0,1,Normal,Extreme,1,0,Normal,0,Low,2,2,2,0
+MidleAge,1,0,High,Extreme,0,0,Normal,1,Low,1,3,3,0
+MidleAge,0,0,Normal,Extreme,0,1,Normal,1,Normal,1,0,3,0
+MidleAge,0,2,High,High Risk,0,1,High,0,Low,2,1,2,1
+MidleAge,1,2,High,Normal,0,1,High,0,Normal,2,0,2,1
+Adult,1,0,Normal,High Risk,1,0,Normal,1,Low,1,4,3,0
+MidleAge,1,2,Normal,High Risk,0,1,Normal,0,Low,2,0,2,0
+Old,1,2,High,High Risk,0,0,Normal,0,Low,1,0,3,0
+Old,0,0,High,High Risk,0,0,Low,0,Normal,1,3,3,0
+MidleAge,0,2,Normal,Extreme,0,1,Normal,0,Low,2,1,2,1
+Adult,1,2,Normal,Extreme,0,1,High,0,High,0,0,2,1
+Adult,0,2,Normal,Extreme,0,0,High,1,Low,2,0,2,1
+MidleAge,0,0,Normal,Extreme,0,1,High,1,Low,2,0,2,1
+MidleAge,0,0,High,High Risk,0,1,Normal,1,Low,1,0,2,0
+Old,1,0,Normal,High Risk,0,0,Low,1,High,1,2,3,0
+MidleAge,1,2,Normal,Extreme,0,1,High,0,Low,2,0,2,1
+MidleAge,1,1,Normal,Extreme,0,0,Normal,0,Normal,1,0,2,0
+MidleAge,0,0,High,High Risk,0,1,Normal,1,Normal,1,0,2,0
+MidleAge,1,0,High,Extreme,0,0,High,0,Normal,1,2,3,0
+MidleAge,1,0,High,Extreme,0,1,Low,1,Normal,1,1,3,0
+MidleAge,1,2,High,Normal,0,1,High,0,Normal,2,0,2,1
+MidleAge,1,2,Normal,Extreme,0,1,High,0,Low,2,0,2,1
+MidleAge,1,1,Normal,High Risk,1,1,High,0,Low,2,0,2,1
+MidleAge,1,2,Normal,High Risk,1,0,High,0,Low,2,3,2,1
+MidleAge,1,0,High,Extreme,0,0,Normal,1,Low,1,1,3,0
+MidleAge,0,2,Normal,Extreme,0,0,Normal,0,Low,2,0,2,1
+MidleAge,1,0,Normal,High Risk,0,1,Normal,0,Low,2,1,2,0
+MidleAge,0,0,High,Extreme,0,0,Normal,0,High,1,3,3,0
+MidleAge,0,1,Normal,Extreme,0,1,High,0,Low,1,0,2,1
+Old,0,0,High,High Risk,1,1,High,1,Normal,1,2,3,0
+MidleAge,0,1,Normal,Extreme,0,1,High,0,Low,1,0,2,1
+Old,0,0,High,High Risk,0,0,Low,0,Normal,1,3,3,0
+Old,1,3,High,High Risk,1,0,Low,0,Low,1,1,2,1
+MidleAge,1,2,Normal,High Risk,0,1,Normal,0,Low,2,0,2,0
+Adult,0,2,Normal,High Risk,0,1,Normal,0,Low,1,0,2,1
+Adult,1,0,High,High Risk,0,1,High,0,Normal,2,0,2,1
+MidleAge,1,0,High,Extreme,0,0,High,1,Low,2,0,2,1
+Old,1,2,High,Extreme,0,0,Normal,0,Normal,1,3,3,0
+MidleAge,1,2,Normal,Extreme,1,1,High,0,Low,2,2,2,1
+MidleAge,1,3,Normal,Normal,0,0,High,0,Low,1,0,1,1
+Adult,1,0,Normal,High Risk,0,1,Normal,0,Low,2,0,3,1
+Old,0,2,Normal,Extreme,0,0,Normal,0,Normal,1,0,3,1
+Adult,1,2,Normal,Normal,0,1,High,0,Low,2,4,2,1
+Adult,1,1,Normal,High Risk,0,0,High,0,Low,2,0,2,1
+MidleAge,1,0,Normal,Extreme,0,0,Low,1,Normal,1,1,2,0
+MidleAge,1,2,High,High Risk,1,1,Normal,1,Normal,1,0,2,1
+Old,1,0,High,Extreme,0,0,Low,1,Normal,1,3,2,0
+MidleAge,0,3,High,High Risk,0,1,High,0,Low,2,0,2,1
+MidleAge,0,2,High,Extreme,0,1,Low,0,Low,2,0,3,1
+MidleAge,0,0,Normal,Normal,0,1,Low,0,Low,1,0,2,1
+Adult,1,2,Normal,High Risk,0,0,High,0,Normal,1,0,2,1
+MidleAge,1,1,Normal,High Risk,0,1,High,0,Normal,0,0,3,0
+MidleAge,1,2,High,Normal,1,1,High,0,Low,2,1,3,1
+MidleAge,1,0,High,Extreme,1,0,Low,0,Normal,1,3,3,0
+MidleAge,1,2,Normal,High Risk,0,0,Normal,0,Low,1,1,3,0
+Adult,1,2,High,Extreme,0,0,High,0,Low,2,0,2,1
+MidleAge,1,0,Normal,High Risk,0,0,Low,1,Normal,1,3,3,0
+MidleAge,0,0,Normal,Extreme,0,1,Normal,1,Normal,1,0,3,0
+MidleAge,0,0,High,Extreme,0,0,Normal,0,High,1,3,3,0
+MidleAge,1,0,High,Extreme,0,1,Low,1,High,1,3,3,0
+Adult,1,1,Normal,Normal,0,1,High,0,Low,2,0,2,1
+Old,1,0,Normal,High Risk,0,0,Normal,0,Low,2,2,1,0
+MidleAge,1,1,Normal,Extreme,0,0,Low,0,Normal,1,1,3,0
+Adult,1,0,Normal,Normal,0,0,Normal,0,Low,2,0,3,0
+Old,1,0,Normal,Extreme,0,0,Low,0,High,1,1,3,0
+MidleAge,0,1,Normal,Extreme,1,0,Normal,1,Low,2,1,2,1
+MidleAge,1,2,High,High Risk,1,1,Normal,1,Normal,1,0,2,1
+MidleAge,0,0,Normal,Extreme,0,0,Normal,0,Low,2,1,2,1
+MidleAge,1,2,High,Normal,0,1,High,0,Normal,2,0,2,1
+MidleAge,1,2,Normal,Extreme,0,1,Low,1,Normal,1,0,3,0
+MidleAge,1,0,Normal,Extreme,0,1,Low,1,Normal,1,1,3,0
+MidleAge,1,2,Normal,High Risk,1,0,High,0,Normal,1,0,2,1
+MidleAge,1,0,Normal,High Risk,0,1,Normal,0,Low,1,0,3,1
+Old,1,2,High,Extreme,1,0,Normal,1,Normal,1,0,3,0
+MidleAge,1,1,High,High Risk,0,0,High,0,Low,2,1,2,0
+MidleAge,1,0,High,High Risk,0,1,Normal,0,Normal,2,0,2,1
+MidleAge,0,2,High,Normal,0,0,Normal,1,Normal,0,0,2,1
+Old,0,0,Normal,Normal,0,1,Low,0,Normal,1,0,2,1
+Adult,0,0,Normal,Normal,0,1,High,0,Normal,2,0,2,1
+MidleAge,0,2,High,Normal,0,0,Normal,1,Normal,0,0,2,1
+MidleAge,0,1,Normal,High Risk,0,0,High,0,Low,1,0,2,1
+MidleAge,1,2,Normal,High Risk,0,1,Normal,0,Low,2,0,2,0
+Adult,0,2,Normal,High Risk,0,1,Normal,0,Low,1,1,2,1
+MidleAge,1,0,Normal,Extreme,0,1,Normal,1,High,1,1,3,0
+Adult,0,1,Normal,High Risk,0,0,High,0,Normal,2,0,2,1
+MidleAge,0,0,High,Extreme,1,0,Low,1,High,0,2,3,0
+MidleAge,0,0,High,Extreme,0,2,Low,1,High,1,0,2,0
+MidleAge,0,1,Normal,Extreme,1,0,Normal,1,Low,2,1,2,1
+Adult,1,0,Normal,Normal,0,0,Low,1,High,1,0,3,0
+Adult,1,0,Normal,Extreme,0,0,Normal,0,Low,2,1,2,0
+MidleAge,1,0,Normal,High Risk,0,0,Low,1,Low,1,1,2,0
+Adult,1,1,Normal,High Risk,0,1,High,0,Low,2,0,2,1
+MidleAge,1,2,Normal,Normal,0,1,Normal,0,Normal,1,3,3,0
+MidleAge,1,0,Normal,High Risk,0,0,Low,1,Normal,1,2,3,0
+Adult,0,1,Normal,Normal,0,1,High,0,Low,2,1,2,1
+MidleAge,1,2,Normal,Normal,0,1,Normal,0,Normal,1,3,3,0
+MidleAge,1,0,High,High Risk,0,1,Normal,0,Low,2,1,3,0
+MidleAge,1,0,High,Normal,0,1,High,1,Low,2,1,3,0
+MidleAge,1,1,Normal,High Risk,0,1,Normal,0,Low,1,4,3,1
+Old,0,2,High,Extreme,0,1,High,0,Low,2,1,2,1
+MidleAge,1,0,High,High Risk,0,1,Normal,0,Low,2,1,3,0
+MidleAge,1,2,Normal,High Risk,0,0,High,0,High,1,1,3,0
+MidleAge,0,2,Normal,Extreme,0,0,Normal,0,Low,2,0,2,1
+MidleAge,0,0,High,Normal,0,0,Normal,0,High,0,3,3,0
+MidleAge,0,0,Normal,High Risk,0,1,High,0,Low,2,0,2,1
+MidleAge,1,3,High,Extreme,0,0,Normal,0,High,0,0,3,1
+Old,1,3,High,High Risk,1,0,Low,0,Low,1,1,2,1
+MidleAge,0,0,High,Extreme,0,0,Normal,0,High,1,2,3,0
+Old,0,2,High,Extreme,0,1,Normal,0,Low,2,0,2,1
+MidleAge,0,0,Normal,Normal,0,1,Normal,1,Low,1,0,2,0
+MidleAge,0,0,Normal,High Risk,0,0,Normal,0,Low,2,0,2,1
+MidleAge,0,2,Normal,Extreme,0,0,High,0,Low,2,0,2,1
+Old,0,2,High,Normal,0,2,Low,0,Normal,1,0,2,1
+MidleAge,0,2,Normal,High Risk,0,1,Normal,0,Normal,1,0,2,1
+MidleAge,1,1,Normal,Extreme,0,1,High,0,Low,2,0,2,1
+MidleAge,1,0,Normal,High Risk,0,0,Normal,0,Low,2,0,3,0
+MidleAge,1,3,High,High Risk,0,0,Normal,0,Low,1,0,3,1
+MidleAge,1,0,Normal,Extreme,0,0,Low,1,High,1,2,3,0
+Adult,1,2,High,High Risk,0,0,High,0,Low,2,0,2,1
+MidleAge,0,0,High,Extreme,0,0,Normal,0,Normal,1,0,2,1
+MidleAge,1,3,Normal,High Risk,0,1,High,0,Low,2,2,2,0
+MidleAge,1,2,Normal,Extreme,0,0,Normal,0,Low,0,1,2,1
+MidleAge,1,1,Normal,High Risk,0,1,High,0,Normal,0,0,3,0
+Old,1,0,Normal,Extreme,0,0,Low,0,Normal,1,3,2,0
+Old,0,0,Normal,High Risk,0,1,Normal,0,Low,2,2,2,1
+MidleAge,0,2,Normal,Extreme,0,0,Normal,0,Low,2,0,2,1
+Old,1,2,Normal,Extreme,0,1,Normal,0,Normal,2,1,3,1
+Old,1,2,High,Extreme,0,0,Normal,0,Normal,1,3,3,0
+MidleAge,1,0,Normal,Extreme,0,0,Low,1,High,1,2,2,0
+Adult,0,0,Normal,Extreme,1,0,Normal,1,High,1,0,3,0
+MidleAge,1,2,Normal,Normal,1,0,Normal,0,Normal,0,0,2,1
+MidleAge,1,0,Normal,High Risk,0,1,Normal,0,Low,2,1,3,0
+Old,1,0,Normal,Extreme,1,1,High,0,Low,1,2,3,0
+MidleAge,1,0,High,Normal,0,1,High,1,Low,2,1,3,0
+MidleAge,1,0,Normal,High Risk,0,0,High,0,Low,2,0,2,1
+Adult,0,2,Low,Normal,0,1,High,0,Low,2,0,2,1
+Old,1,0,Normal,High Risk,0,1,Low,0,Normal,1,0,2,0
+MidleAge,0,0,Normal,Normal,0,1,Low,0,Low,1,0,2,1
+Old,0,2,High,Extreme,0,1,Normal,0,Low,2,0,2,1
+Adult,0,2,Normal,High Risk,0,1,High,0,Low,1,0,2,1
+Adult,1,0,Normal,Extreme,0,0,Normal,0,Low,2,1,2,0
+MidleAge,1,0,Normal,Normal,0,0,Low,1,Normal,1,1,1,0
+MidleAge,0,0,Normal,High Risk,0,0,Normal,0,Low,2,0,2,1
+MidleAge,0,0,Normal,Extreme,0,0,Normal,0,Low,2,0,2,1
+Adult,1,2,Normal,High Risk,0,0,High,0,Normal,1,0,2,1
+MidleAge,0,2,High,High Risk,0,1,High,0,Low,2,1,2,1
+Adult,1,2,Normal,High Risk,1,1,High,0,Low,0,0,3,1
+MidleAge,0,2,Normal,Extreme,1,1,High,0,Low,2,0,2,1
+MidleAge,1,0,High,Extreme,0,0,Normal,1,High,1,2,3,0
+Adult,1,3,Normal,Normal,0,0,High,0,Low,2,0,2,1
+Adult,1,0,Normal,Extreme,0,0,Normal,0,Low,2,1,2,0
+MidleAge,1,0,Normal,Extreme,0,0,Normal,1,High,1,1,3,0
+Adult,1,0,High,High Risk,0,1,High,0,Normal,2,0,2,1
+MidleAge,1,3,High,Extreme,1,1,High,0,Normal,1,0,3,1
+Old,1,0,Normal,Extreme,0,0,Low,0,Normal,1,3,2,0
+MidleAge,0,0,High,Extreme,0,0,Normal,0,Normal,1,0,2,1
+MidleAge,1,0,High,High Risk,0,1,Low,0,Normal,1,1,3,0
+MidleAge,1,1,Normal,Normal,1,1,Normal,0,Low,2,0,3,1
+Adult,1,2,High,High Risk,0,0,High,0,Low,2,0,2,1
+MidleAge,1,1,Normal,Extreme,0,1,Normal,0,Low,2,0,2,1
+Adult,1,0,Normal,Normal,0,0,Low,1,High,1,0,3,0
+MidleAge,1,0,Normal,Extreme,0,1,Low,1,Normal,1,1,3,0
+Adult,1,3,High,Normal,0,1,High,1,Normal,2,0,3,1
+MidleAge,1,2,Normal,Extreme,0,1,Low,1,Normal,1,0,3,0
+MidleAge,1,0,High,Normal,1,0,Low,0,Normal,1,2,1,0
+MidleAge,0,0,High,Extreme,0,0,Normal,1,Normal,1,0,3,0
+MidleAge,1,0,Normal,Extreme,0,0,Low,1,High,1,2,2,0
+Old,0,1,Normal,Extreme,0,0,Low,1,Low,2,1,2,1
+MidleAge,0,0,Normal,Extreme,0,1,High,1,Normal,1,2,2,0
+Old,1,2,High,Extreme,0,1,Low,1,High,1,1,3,0
+MidleAge,0,0,Normal,Extreme,0,1,High,1,Normal,1,2,2,0
+MidleAge,1,0,High,High Risk,0,0,Low,0,Normal,1,2,1,0
+MidleAge,1,0,High,High Risk,0,1,Normal,0,Low,2,1,3,0
+MidleAge,1,1,High,High Risk,0,1,High,1,Low,2,0,2,1
+Adult,1,2,Normal,Normal,0,1,High,0,Low,2,4,2,1
+MidleAge,1,1,Normal,Extreme,0,0,Normal,0,Normal,1,0,2,0
+MidleAge,0,1,High,Normal,0,1,High,0,Low,2,2,2,1
+MidleAge,0,2,Normal,Extreme,0,1,Low,0,Normal,1,1,3,0
+MidleAge,1,0,High,Extreme,0,1,Low,1,Normal,1,2,3,0
+MidleAge,0,2,Normal,Extreme,0,1,High,0,Low,2,0,2,1
+MidleAge,0,1,High,Normal,0,1,High,0,Low,2,2,2,1
+MidleAge,1,2,Normal,Extreme,0,1,High,0,Low,2,0,2,1
+Old,0,2,Normal,Extreme,1,0,Low,0,Low,2,1,2,1
+Old,1,0,Normal,High Risk,0,0,Low,1,Low,2,1,2,0
+Adult,1,0,Normal,Extreme,0,1,Low,1,Normal,1,0,1,0
+MidleAge,1,0,High,High Risk,0,0,Low,0,Normal,1,2,1,0
+MidleAge,0,0,High,Extreme,0,2,Low,1,High,1,0,2,0
+Adult,0,0,Normal,Extreme,1,0,Normal,1,High,1,0,3,0
+MidleAge,0,0,Normal,High Risk,0,2,Low,1,Normal,1,1,3,0
+MidleAge,0,0,High,High Risk,1,0,Normal,1,High,1,2,1,0
+MidleAge,1,0,High,High Risk,0,1,Low,1,High,0,0,3,0
+MidleAge,0,0,Normal,Extreme,0,1,Normal,1,Normal,1,0,3,0
+MidleAge,0,2,Normal,High Risk,0,1,Normal,0,Normal,1,0,2,1
+Adult,1,0,Normal,Extreme,0,1,High,0,Normal,1,0,2,1
+Adult,0,1,Normal,Extreme,0,1,High,0,Low,2,0,2,1
+MidleAge,1,1,Normal,Extreme,0,1,High,0,Low,2,0,2,1
+Old,1,0,Normal,High Risk,0,0,Normal,0,Low,2,2,1,0
+MidleAge,1,0,High,Extreme,0,1,Low,1,Normal,1,1,3,0
+MidleAge,1,0,Normal,Extreme,1,0,Normal,1,Low,2,2,3,0
+MidleAge,0,0,Normal,Extreme,1,1,Low,0,Normal,1,3,2,0
+MidleAge,1,3,Normal,High Risk,0,1,Normal,0,High,1,2,2,0
+MidleAge,1,3,High,Extreme,0,0,Normal,0,High,0,0,3,1
+Old,1,2,High,Extreme,0,0,Normal,0,Normal,1,3,3,0
+MidleAge,1,2,Normal,High Risk,0,0,High,0,High,2,2,3,0
+Adult,1,3,Normal,High Risk,0,1,High,1,High,1,0,3,0
+Old,0,3,High,High Risk,0,1,Normal,0,Normal,2,2,2,1
+Old,1,3,Normal,Extreme,1,0,High,0,Normal,1,1,2,0
+MidleAge,1,3,Normal,Extreme,0,1,Low,0,Normal,1,0,3,0
+MidleAge,1,1,Normal,Extreme,0,1,High,0,Low,2,0,2,1
+MidleAge,0,1,Normal,High Risk,0,0,High,0,Low,1,0,2,1
+MidleAge,1,0,Normal,Normal,0,0,Low,1,High,1,1,2,0
+MidleAge,1,0,Normal,High Risk,0,1,High,0,Normal,2,2,3,0
+MidleAge,0,0,Normal,Extreme,0,0,Normal,0,Low,1,0,2,1
+MidleAge,0,0,High,High Risk,0,1,Normal,1,Low,1,0,2,0
+MidleAge,0,2,Normal,Extreme,0,1,High,0,Low,2,0,2,1
+Old,1,3,Normal,Extreme,1,0,High,0,Normal,1,1,2,0
+MidleAge,0,0,Normal,Normal,0,1,Low,0,Low,1,0,2,1
+MidleAge,0,0,Normal,High Risk,0,0,Normal,1,Low,1,0,2,1
+MidleAge,0,0,Normal,Extreme,0,0,Normal,1,Normal,1,2,3,0
+MidleAge,1,0,Normal,Extreme,0,1,Low,1,Low,1,1,3,1
+Old,1,0,Normal,Normal,0,1,Normal,0,Low,2,0,3,1
+Adult,1,2,Normal,High Risk,0,1,High,0,Low,2,0,2,1
+MidleAge,1,0,High,High Risk,0,0,Low,0,High,1,0,3,0
+MidleAge,1,2,Normal,High Risk,0,1,Normal,0,Low,2,0,2,0
+MidleAge,0,0,Normal,Extreme,0,1,Low,0,Normal,1,2,2,1
+Old,0,0,Normal,Normal,0,1,Low,0,Normal,1,0,2,1
+MidleAge,0,1,Normal,High Risk,0,0,High,0,Low,1,0,2,1
+MidleAge,1,0,Normal,Extreme,0,1,Low,1,Normal,1,2,3,0
+Adult,1,1,Normal,Normal,0,1,High,0,Low,2,0,2,1
+Old,0,3,High,High Risk,0,1,Low,0,High,0,0,2,1
+MidleAge,1,0,Normal,Extreme,1,0,Low,1,Normal,0,0,3,0
+Adult,0,1,Normal,Extreme,0,1,High,0,Low,2,0,2,1
+Adult,1,1,Normal,High Risk,0,1,Normal,0,Low,2,0,2,1
+MidleAge,0,1,Normal,High Risk,0,0,High,0,Low,1,1,2,0
+Adult,0,2,Normal,High Risk,0,1,Normal,0,Low,1,0,2,1
+MidleAge,1,2,Normal,Extreme,0,1,Low,1,Normal,1,0,3,0
+MidleAge,1,0,Normal,Extreme,0,0,High,0,Low,2,0,2,1
+MidleAge,1,0,Normal,Normal,0,0,Low,1,High,1,1,2,0
+MidleAge,1,0,Normal,Extreme,0,2,Normal,0,High,0,3,1,0
+MidleAge,1,0,Normal,High Risk,0,1,Normal,0,Low,2,0,2,1
+MidleAge,0,0,Normal,High Risk,0,0,Low,0,Normal,1,0,2,1
+Old,0,3,High,High Risk,0,1,Low,0,High,0,0,2,1
+Old,0,2,High,Extreme,1,0,Normal,0,Low,2,1,2,1
+Adult,1,1,Normal,Normal,0,1,High,0,Low,2,0,2,1
+MidleAge,1,1,Normal,Extreme,0,1,Normal,0,Low,2,0,3,0
+Adult,1,1,Normal,High Risk,0,0,High,0,Low,2,0,2,1
+Old,1,1,High,High Risk,0,1,Low,1,Low,1,3,1,0
+MidleAge,0,0,Normal,Extreme,0,0,High,0,Low,2,0,2,0
+MidleAge,1,0,Normal,High Risk,0,1,High,0,Normal,2,2,3,0
+Old,1,2,Normal,Extreme,0,1,Normal,0,Normal,2,1,3,1
+MidleAge,1,2,Normal,Extreme,0,0,Normal,0,Low,1,0,3,1
+MidleAge,1,0,Normal,Extreme,1,0,Low,1,Normal,2,3,3,0
+MidleAge,1,0,Normal,High Risk,0,1,Normal,0,Low,2,1,3,0
+MidleAge,1,0,Normal,Extreme,0,1,Normal,1,Normal,2,1,3,0
+MidleAge,1,0,Normal,Extreme,0,0,Normal,0,Normal,1,1,3,0
+Adult,0,2,Normal,Extreme,0,0,High,1,Low,2,0,2,1
+Old,1,2,High,Extreme,1,0,Normal,1,Normal,1,0,3,0
+Adult,1,1,Normal,Extreme,0,1,High,0,Low,2,0,2,1
+MidleAge,1,0,High,Extreme,0,0,Normal,1,High,0,0,3,0
+MidleAge,1,0,High,Normal,1,0,Low,0,Normal,1,2,1,0
+Adult,1,0,Normal,Normal,0,0,Low,1,High,1,0,3,0
+MidleAge,1,2,High,Normal,0,0,Normal,0,High,1,0,2,0
+MidleAge,0,0,High,Extreme,0,0,Normal,0,High,1,3,3,0
+MidleAge,1,0,Normal,High Risk,1,1,Normal,1,Normal,1,0,0,0
+MidleAge,1,0,Normal,Extreme,0,0,High,0,Low,2,2,3,0
+MidleAge,0,0,High,Extreme,1,0,Low,1,High,0,2,3,0
+MidleAge,0,2,Normal,Extreme,1,1,High,0,Low,2,0,2,1
+MidleAge,1,2,Normal,High Risk,0,0,Normal,1,Low,1,0,3,1
+MidleAge,0,1,Normal,Extreme,0,0,Normal,0,Normal,1,0,2,1
+MidleAge,1,0,High,High Risk,1,0,Normal,1,High,0,0,3,0
+MidleAge,0,1,High,Normal,0,1,High,0,Low,2,2,2,1
+Adult,1,0,Normal,High Risk,0,1,Normal,0,Normal,1,0,3,0
+Adult,1,0,Normal,Extreme,0,0,Normal,1,Low,2,0,3,0
+MidleAge,0,2,Normal,High Risk,0,1,Normal,0,Normal,1,0,2,1
+Old,1,2,High,High Risk,0,0,Normal,0,Low,1,0,3,0
+Old,1,0,Normal,High Risk,0,0,Low,1,Low,2,1,2,0
+Adult,1,0,Normal,Extreme,0,0,Normal,1,Low,2,0,3,0
+Adult,1,2,Normal,High Risk,0,0,High,0,Normal,1,0,2,1
+Adult,1,0,Normal,Normal,0,1,Low,1,Normal,1,0,3,0
+Old,0,1,High,Extreme,0,1,High,0,Low,2,2,2,1
+MidleAge,1,0,Normal,High Risk,0,1,Low,1,Normal,1,0,1,1
+MidleAge,1,2,Low,High Risk,0,1,Normal,1,Low,2,1,3,1
+MidleAge,1,0,Normal,High Risk,0,0,Low,1,Normal,1,3,3,0
+MidleAge,1,2,Normal,High Risk,0,0,Normal,0,Low,1,1,3,0
+MidleAge,0,1,High,Extreme,0,0,Normal,0,Normal,1,0,2,1
+MidleAge,0,2,Normal,Normal,1,1,Low,0,Low,2,0,2,1
+MidleAge,1,3,Normal,Extreme,0,1,Low,0,Normal,1,0,3,0
+MidleAge,1,1,Normal,High Risk,0,0,High,0,Low,2,0,3,1
+Adult,1,0,Normal,Normal,0,1,Low,1,Normal,1,0,3,0
+MidleAge,0,1,Normal,Normal,0,1,Normal,0,Low,1,0,2,1
+Old,0,3,High,High Risk,0,1,Low,0,High,0,0,2,1
+MidleAge,1,3,Normal,High Risk,0,0,Low,1,Normal,2,1,2,1
+Old,1,1,High,High Risk,0,0,Normal,0,Low,2,0,2,1
+MidleAge,0,0,Normal,High Risk,0,2,Low,1,Normal,1,1,3,0
+MidleAge,1,2,Normal,Extreme,1,0,Normal,1,Low,1,1,1,0
+MidleAge,0,1,Normal,Extreme,0,0,Normal,0,Normal,1,0,2,1
+MidleAge,1,0,Normal,High Risk,1,1,Normal,0,Low,2,3,3,1
+MidleAge,1,2,High,Extreme,0,1,Normal,0,Low,2,0,2,0
+MidleAge,1,0,Normal,Extreme,0,0,High,0,Low,2,0,2,1
+Old,0,2,High,Extreme,0,1,High,0,Low,2,1,2,1
+Old,0,2,Normal,High Risk,0,0,Low,0,Normal,1,0,2,1
+Old,0,1,Normal,Extreme,0,0,Low,1,Low,2,1,2,1
+MidleAge,0,0,High,Extreme,0,0,Normal,0,High,1,2,3,0
+MidleAge,1,0,Normal,Extreme,0,0,High,0,Low,1,0,3,0
+MidleAge,1,1,Normal,High Risk,0,0,High,0,Low,2,0,3,1
+MidleAge,1,0,High,Extreme,0,1,Low,1,Normal,1,2,3,0
+MidleAge,0,1,Normal,Extreme,0,0,Normal,0,Normal,1,0,2,1
+Adult,1,1,Normal,High Risk,0,1,High,0,Low,2,0,2,1
+MidleAge,1,0,Normal,High Risk,0,1,Normal,0,Low,2,1,2,0
+MidleAge,1,2,Low,High Risk,0,1,Normal,1,Low,2,1,3,1
+Adult,0,2,Normal,Normal,0,1,High,0,Low,1,0,2,1
+MidleAge,1,0,Normal,High Risk,1,1,Normal,1,Normal,1,0,0,0
+MidleAge,1,2,Normal,Normal,0,1,High,0,Low,2,0,2,1
+MidleAge,1,0,Normal,High Risk,0,0,Normal,1,Normal,1,1,3,0
+Old,1,0,Normal,High Risk,0,0,Low,1,High,1,2,3,0
+MidleAge,1,0,Normal,Extreme,0,0,High,0,Low,2,2,3,0
+MidleAge,1,0,Normal,Extreme,0,1,Normal,1,Low,2,1,3,0
+Adult,1,2,High,High Risk,0,0,High,0,Low,2,0,2,1
+Adult,0,2,Normal,Extreme,0,0,High,1,Low,2,0,2,1
+MidleAge,1,0,Normal,Extreme,1,0,Low,1,Normal,2,3,3,0
+MidleAge,1,1,Normal,High Risk,0,1,Normal,0,Low,1,4,3,1
+MidleAge,0,2,Normal,Extreme,0,1,Normal,0,Low,2,1,2,1
+MidleAge,1,2,Normal,High Risk,0,1,Normal,1,Normal,1,0,2,1
+MidleAge,1,2,High,Extreme,0,1,Normal,0,Low,2,0,2,0
+MidleAge,1,0,Normal,High Risk,1,1,Normal,1,Normal,2,2,3,0
+Adult,1,2,Normal,High Risk,0,1,High,0,Low,2,0,2,1
+MidleAge,1,1,Normal,High Risk,0,1,Normal,0,Low,1,4,3,1
+MidleAge,1,1,Normal,Extreme,0,1,Normal,0,Low,2,0,2,1
+Old,0,2,High,Extreme,0,0,Normal,0,Low,2,0,2,1
+MidleAge,1,1,Normal,High Risk,0,0,High,0,Low,1,0,2,1
+Old,1,0,Normal,Normal,0,1,Normal,0,Low,2,0,3,1
+MidleAge,0,2,Normal,Extreme,0,0,Normal,0,Low,2,0,2,1
+MidleAge,1,2,Normal,Extreme,1,1,High,0,Low,2,2,2,1
+MidleAge,1,0,Normal,High Risk,0,0,Low,1,Normal,0,1,2,0
+Old,1,0,High,High Risk,0,0,Normal,0,Normal,2,0,1,1
+MidleAge,0,1,Normal,High Risk,0,1,High,0,Low,2,0,2,1
+MidleAge,0,0,Normal,Extreme,0,0,High,0,Low,2,0,2,0
+MidleAge,1,0,High,Extreme,0,0,Low,1,Low,1,1,1,0
+MidleAge,0,0,Normal,Extreme,0,1,High,0,Low,2,0,2,1
+MidleAge,1,1,Normal,High Risk,0,0,High,0,Low,2,0,3,1
+MidleAge,0,3,High,Extreme,1,0,High,0,Normal,2,0,2,1
+MidleAge,1,0,High,Normal,0,0,Normal,1,High,2,2,3,0
+MidleAge,1,0,Normal,Extreme,0,1,Normal,1,High,1,1,3,0
+MidleAge,1,0,Normal,Extreme,0,1,Normal,1,High,1,1,3,0
+Old,1,0,High,Normal,1,1,Normal,0,High,1,2,3,0
+MidleAge,1,1,Normal,Normal,1,1,Normal,0,Low,2,0,3,1
+Old,0,2,Normal,Extreme,1,0,Low,0,Low,2,1,2,1
+Adult,1,1,Normal,High Risk,0,1,Low,0,Low,1,0,1,1
+MidleAge,0,0,Normal,High Risk,0,0,Normal,1,Low,1,0,2,1
+MidleAge,0,0,High,High Risk,0,1,Normal,1,Normal,1,0,2,0
+Old,0,0,High,High Risk,0,0,Low,0,Normal,1,3,3,0
+MidleAge,0,2,Normal,Extreme,0,1,Normal,0,Low,2,0,2,1
+MidleAge,1,2,Normal,High Risk,0,1,Normal,1,Normal,1,0,2,1
+MidleAge,0,0,High,Extreme,0,0,Normal,1,Normal,1,0,3,0
+MidleAge,1,0,Normal,Extreme,0,1,Low,1,Normal,1,2,3,0
+MidleAge,1,3,Normal,High Risk,0,1,High,0,Low,2,2,2,0
+Adult,0,1,Normal,High Risk,0,1,High,0,Low,2,0,2,1
+Adult,1,0,Normal,Normal,0,1,Normal,1,High,0,0,1,0
+MidleAge,1,0,High,High Risk,0,1,Low,0,Normal,1,1,3,0
+MidleAge,0,0,Normal,Extreme,0,1,Low,0,Normal,1,2,2,1
+MidleAge,1,1,Normal,High Risk,0,1,High,0,Low,0,0,2,1
+MidleAge,1,2,High,High Risk,0,0,High,0,Normal,2,0,3,1
+MidleAge,1,0,High,Extreme,0,0,Normal,1,Low,1,1,3,0
+Old,1,0,Normal,Extreme,1,1,High,0,Low,1,2,3,0
+MidleAge,1,0,High,Extreme,0,1,Low,1,High,1,3,3,0
+MidleAge,0,0,Normal,Extreme,1,1,Low,0,Normal,1,3,2,0
+MidleAge,1,1,Normal,Extreme,0,0,Low,0,Normal,1,1,3,0
+MidleAge,1,0,Normal,High Risk,0,1,Low,1,High,1,1,3,0
+MidleAge,1,0,Normal,High Risk,0,1,Low,1,High,1,1,3,0
+Old,1,0,High,Normal,1,1,Normal,0,High,1,2,3,0
+MidleAge,0,2,Normal,Normal,1,1,Low,0,Low,2,0,2,1
+MidleAge,1,3,Normal,High Risk,0,1,Normal,0,High,1,2,2,0
+MidleAge,1,1,Normal,High Risk,1,0,Normal,0,Low,2,0,2,1
+Adult,1,1,Normal,High Risk,0,1,Low,0,Low,1,0,1,1
+Old,0,0,High,High Risk,0,0,Low,0,Normal,1,3,3,0
+MidleAge,1,3,High,Extreme,0,0,Normal,0,Low,1,0,3,0
+Adult,1,0,Normal,Extreme,0,1,High,0,Normal,1,0,2,1
+Old,1,0,Normal,High Risk,0,0,Low,1,High,1,2,3,0
+MidleAge,1,3,High,High Risk,1,0,Normal,0,Normal,0,0,1,1
+MidleAge,0,0,Normal,Normal,0,1,Normal,1,Low,1,0,2,0
+MidleAge,1,0,Normal,High Risk,0,1,Normal,0,Low,2,1,2,0
+MidleAge,0,0,Normal,Normal,0,1,Low,0,Low,1,0,2,1
+MidleAge,1,0,High,High Risk,0,0,Low,1,Low,2,0,3,1
+MidleAge,1,0,High,Extreme,0,0,Low,1,Low,1,1,1,0
+Adult,1,2,Normal,High Risk,0,1,High,1,Low,2,0,2,1
+MidleAge,1,2,Low,High Risk,0,1,Normal,1,Low,2,1,3,1
+MidleAge,0,2,Normal,High Risk,0,1,Normal,0,Normal,1,0,2,1
+Adult,1,0,Normal,Normal,0,0,Low,1,Normal,1,0,3,0
+MidleAge,1,1,Normal,Extreme,0,1,Normal,0,Low,2,0,3,0
+MidleAge,0,0,High,Extreme,0,0,Normal,0,High,0,2,2,0
+MidleAge,1,0,High,High Risk,1,0,Normal,1,High,0,0,3,0
+MidleAge,1,1,Normal,High Risk,1,0,Normal,0,Low,2,0,2,1
+MidleAge,1,2,Normal,High Risk,0,0,Normal,1,Low,1,0,3,1
+Old,1,1,High,High Risk,0,0,Normal,0,Low,2,0,2,1
+MidleAge,1,0,Normal,Extreme,0,0,High,0,Low,2,0,2,1
+Adult,1,3,High,High Risk,0,0,High,0,Low,2,2,2,1
+MidleAge,0,0,High,High Risk,1,0,Normal,1,High,1,2,1,0
+MidleAge,1,0,High,High Risk,0,0,Normal,1,Normal,2,1,3,0
+MidleAge,0,0,High,Extreme,0,0,Normal,0,High,0,2,2,0
+MidleAge,1,0,Normal,Extreme,0,1,Normal,1,Normal,2,1,3,0
+MidleAge,1,0,High,High Risk,0,1,Normal,0,Normal,2,0,2,1
+MidleAge,1,0,Normal,Normal,0,0,Low,1,High,1,1,2,0
+MidleAge,0,2,Normal,Extreme,0,0,High,0,Low,2,0,2,1
+Adult,1,2,Normal,Normal,0,1,Normal,0,Low,2,0,2,1
+MidleAge,1,2,Normal,High Risk,0,0,Normal,0,Low,1,1,3,0
+Adult,1,2,Normal,High Risk,0,1,High,1,Low,2,0,2,1
+MidleAge,1,0,Normal,Extreme,0,0,Low,1,Normal,1,1,3,0
+MidleAge,1,2,Normal,High Risk,0,1,Normal,1,Normal,1,0,2,1
+MidleAge,1,1,Normal,High Risk,0,1,Normal,0,Low,1,4,3,1
+Old,1,2,Normal,Extreme,0,1,Normal,0,Normal,2,1,3,1
+MidleAge,1,0,High,High Risk,0,1,Low,1,High,0,0,3,0
+Adult,1,0,Normal,Extreme,0,1,Low,1,Normal,1,0,1,0
+MidleAge,1,2,Normal,Normal,0,0,Low,0,Low,2,3,2,0
+MidleAge,0,0,Normal,High Risk,0,0,Normal,0,Low,2,0,2,1
+MidleAge,1,2,High,Normal,1,1,High,0,Low,2,0,3,1
+MidleAge,1,3,Normal,High Risk,0,0,Low,1,Normal,2,1,2,1
+MidleAge,1,0,High,Extreme,0,0,High,1,Low,2,0,2,1
+Old,1,0,High,Normal,0,1,Low,1,High,0,0,3,0
+Adult,0,0,Normal,Normal,0,1,High,0,Normal,2,0,2,1
+MidleAge,1,2,Normal,High Risk,0,0,High,0,High,1,1,3,0
+MidleAge,1,3,High,Extreme,0,0,Low,0,Low,2,0,2,0
+MidleAge,1,0,High,Extreme,0,0,High,0,Normal,1,2,3,0
+MidleAge,1,0,Normal,Normal,0,0,Low,1,Normal,1,1,1,0
+Adult,0,0,Normal,Normal,0,1,High,0,Normal,2,0,2,1
+MidleAge,1,0,Normal,Normal,0,0,Low,1,High,1,1,2,0
+MidleAge,0,3,High,Extreme,1,0,High,0,Normal,2,0,2,1
+MidleAge,1,0,Normal,Extreme,0,1,Normal,1,Low,2,1,3,0
+MidleAge,1,1,Normal,Extreme,0,0,Normal,0,Normal,1,0,2,0
+Adult,1,2,Normal,Extreme,0,1,High,0,High,0,0,2,1
+MidleAge,1,0,Normal,Extreme,0,1,Normal,1,Low,2,1,3,0
+Old,1,0,Normal,High Risk,0,0,Low,1,High,1,2,3,0
+Old,1,3,Normal,Extreme,1,0,High,0,Normal,1,1,2,0
+MidleAge,1,1,Normal,Normal,1,1,Normal,0,Low,2,0,3,1
+Old,0,2,Normal,High Risk,0,0,Low,0,Normal,1,0,2,1
+Adult,1,0,Normal,Extreme,0,1,High,0,Normal,1,0,2,1
+Old,0,2,Normal,High Risk,0,0,Low,0,Normal,1,0,2,1
+MidleAge,1,0,High,Extreme,0,1,High,1,Normal,2,0,3,0
+MidleAge,1,0,Normal,High Risk,0,1,Normal,0,Low,2,1,2,0
+MidleAge,1,2,High,Extreme,0,1,Normal,0,Low,2,0,2,0
+MidleAge,1,3,High,Extreme,0,0,Normal,0,Low,1,0,3,0
+MidleAge,1,0,Normal,High Risk,0,1,High,0,Normal,2,2,3,0
+MidleAge,1,3,High,Extreme,0,0,Low,0,Low,2,0,2,0
+MidleAge,0,3,High,High Risk,0,1,High,0,Low,2,0,2,1
+Adult,1,2,Normal,Extreme,0,1,High,0,Low,2,0,2,1
+Adult,1,1,Normal,High Risk,0,1,Normal,0,Low,2,0,2,1
+MidleAge,1,1,Normal,High Risk,0,1,High,0,Low,0,0,2,1
+MidleAge,1,1,Normal,High Risk,0,1,High,0,Low,2,0,2,1
+MidleAge,0,2,Normal,Extreme,0,1,Normal,0,Low,2,0,2,1
+Adult,1,2,High,Extreme,0,0,High,0,Low,2,0,2,1
+MidleAge,1,3,High,High Risk,0,0,Normal,0,Low,1,0,3,1
+MidleAge,1,0,High,Normal,0,1,Normal,0,Low,1,0,1,1
+MidleAge,1,3,High,Extreme,0,0,Low,0,Low,2,0,2,0
+MidleAge,1,0,Normal,High Risk,0,0,Low,1,Normal,1,2,3,0
+MidleAge,1,0,High,High Risk,0,0,Normal,1,Normal,2,1,3,0
+Adult,0,2,Normal,High Risk,0,1,High,0,Low,1,0,2,1
+MidleAge,1,0,Normal,Normal,0,1,Low,0,Normal,1,1,3,0
+MidleAge,1,0,Normal,Extreme,0,0,High,0,Low,2,0,2,1
+MidleAge,1,0,Normal,High Risk,0,1,High,1,Low,2,0,3,1
+MidleAge,1,1,High,High Risk,0,0,High,0,Low,2,1,2,0
+MidleAge,1,0,Normal,Normal,0,1,Low,1,Normal,1,1,3,0
+MidleAge,1,0,Normal,Extreme,0,0,High,0,Low,1,0,3,0
+Old,1,0,High,Normal,0,1,Low,1,High,0,0,3,0
+MidleAge,1,0,High,Extreme,1,0,Low,0,Normal,1,3,3,0
+MidleAge,1,0,Normal,Extreme,0,1,Normal,1,High,1,1,3,0
+MidleAge,1,0,Normal,High Risk,0,1,Low,1,Normal,1,0,1,1
+MidleAge,0,0,High,Extreme,0,0,Normal,0,High,1,2,3,0
+MidleAge,0,0,High,Extreme,0,0,Normal,0,High,1,3,3,0
+MidleAge,0,0,Normal,High Risk,0,2,Low,1,Normal,1,1,3,0
+MidleAge,0,0,High,Extreme,0,1,Normal,1,Low,2,0,2,1
+MidleAge,1,0,Normal,High Risk,0,1,Low,1,High,1,1,3,0
+MidleAge,1,0,Normal,High Risk,1,1,Normal,1,Normal,1,0,0,0
+MidleAge,1,0,High,Extreme,0,1,High,1,Normal,2,0,3,0
+MidleAge,0,2,Normal,Extreme,0,1,Low,0,Normal,1,1,3,0
+MidleAge,1,3,High,Extreme,0,0,Normal,0,High,0,0,3,1
+MidleAge,1,1,Normal,High Risk,0,1,Normal,0,Low,2,1,2,1
+Adult,0,0,Normal,Extreme,0,0,Low,0,Low,1,0,2,1
+MidleAge,1,0,Normal,High Risk,0,1,Normal,0,Low,1,0,3,1
+MidleAge,1,3,Normal,High Risk,0,1,Normal,0,High,1,2,2,0
+Adult,0,0,Normal,Extreme,0,0,Low,0,Low,1,0,2,1
+MidleAge,0,0,High,Extreme,0,0,Normal,0,High,0,2,2,0
+MidleAge,1,2,Normal,High Risk,1,1,Low,0,Normal,1,1,1,0
+MidleAge,1,1,Normal,Extreme,0,1,Normal,0,Low,2,0,2,1
+MidleAge,1,0,Normal,High Risk,0,0,Low,1,Normal,0,1,2,0
+Adult,1,0,High,High Risk,0,1,High,0,Low,2,0,2,1
+MidleAge,0,1,Normal,High Risk,0,1,High,0,Normal,2,0,2,1
+MidleAge,1,0,Normal,Extreme,0,1,Low,1,Normal,1,2,3,0
+MidleAge,1,0,High,High Risk,0,0,Low,1,Low,1,0,3,0
+MidleAge,1,2,High,High Risk,0,1,High,0,Low,1,1,3,0
+MidleAge,0,1,Normal,Extreme,1,0,Normal,0,Low,2,2,2,0
+Adult,1,0,Normal,Normal,0,1,Low,1,Normal,1,0,3,0
+MidleAge,1,0,Normal,High Risk,0,0,Normal,1,High,1,0,2,1
+Old,1,0,Normal,High Risk,0,0,Low,1,Low,2,1,2,0
+MidleAge,1,0,Normal,High Risk,0,0,Normal,0,Low,2,0,3,0
+Old,1,0,Normal,Extreme,0,0,Low,0,High,1,1,3,0
+MidleAge,1,2,Normal,Extreme,0,1,High,0,Low,2,0,2,1
+MidleAge,1,3,Normal,High Risk,0,1,High,0,Low,2,2,2,0
+Adult,1,3,Normal,High Risk,0,1,High,1,High,1,0,3,0
+Adult,1,0,Normal,High Risk,0,1,Normal,0,Normal,1,0,3,0
+MidleAge,1,0,High,High Risk,0,1,Low,0,Normal,1,1,3,0
+Adult,1,1,Normal,Extreme,0,1,High,0,Low,2,0,3,1
+MidleAge,1,0,High,High Risk,0,1,Normal,0,Normal,2,0,2,1
+MidleAge,0,0,Normal,Extreme,0,0,High,0,Low,2,0,2,0
+MidleAge,1,0,Normal,Normal,0,1,Low,1,Normal,1,1,3,0
+MidleAge,1,0,Normal,High Risk,0,0,Low,1,Low,1,1,2,0
+Adult,1,2,Normal,High Risk,1,1,High,0,Low,0,0,3,1
+MidleAge,1,0,Normal,Extreme,0,0,Low,1,Normal,1,1,3,0
+MidleAge,1,0,Normal,High Risk,0,0,Low,1,Normal,1,2,3,0
+Old,1,0,Normal,Extreme,0,0,Low,0,High,1,1,3,0
+Adult,1,0,High,High Risk,0,1,High,0,Low,2,0,3,0
+MidleAge,0,2,High,Extreme,0,0,Normal,0,Normal,2,1,2,1
+Adult,1,3,Normal,High Risk,0,1,High,1,High,1,0,3,0
+Adult,1,2,Normal,Normal,0,1,Normal,0,Low,2,0,2,1
+MidleAge,1,1,Normal,High Risk,0,1,High,0,Low,0,0,2,1
+Adult,1,2,Normal,Extreme,0,1,High,0,Normal,2,1,2,1
+MidleAge,1,2,High,Extreme,0,1,Normal,0,Low,2,0,2,0
+MidleAge,1,0,High,High Risk,0,0,Low,1,Low,2,0,3,1
+MidleAge,0,1,Normal,Extreme,0,1,High,0,Low,1,0,2,1
+MidleAge,0,0,High,High Risk,0,1,Low,1,Low,1,0,3,0
+MidleAge,0,2,Normal,Normal,0,0,High,0,Low,1,0,2,1
+Old,0,3,High,High Risk,0,1,Normal,0,Normal,2,2,2,1
+Old,1,0,Normal,Normal,0,1,Normal,0,Low,2,0,3,1
+Old,0,0,High,High Risk,1,1,High,1,Normal,1,2,3,0
+MidleAge,1,3,Normal,Normal,0,0,High,0,Normal,1,0,3,1
+Old,0,2,High,Extreme,0,1,High,0,Low,2,1,2,1
+MidleAge,0,2,High,High Risk,0,1,High,0,Low,2,1,2,1
+Old,1,0,High,Normal,0,1,Low,1,High,0,0,3,0
+MidleAge,1,0,Normal,High Risk,0,1,High,1,Low,2,0,3,1
+Old,1,0,High,Extreme,0,0,Low,1,Normal,1,3,2,0
+MidleAge,0,2,Normal,Extreme,0,1,Low,0,Normal,1,1,3,0
+MidleAge,0,2,Normal,Extreme,1,1,High,0,Low,2,0,2,1
+MidleAge,0,0,Normal,High Risk,0,0,Normal,1,Low,1,0,2,1
+MidleAge,0,0,Normal,Extreme,0,0,Normal,0,Low,1,0,2,1
+MidleAge,1,2,Normal,High Risk,0,1,Normal,0,Normal,1,3,3,1
+MidleAge,0,0,Normal,Extreme,0,1,High,0,Low,2,0,2,1
+MidleAge,1,2,High,High Risk,0,1,High,0,Low,1,1,3,0
+Old,0,2,High,Extreme,1,0,Normal,0,Low,2,1,2,1
+Old,0,3,High,High Risk,0,1,Normal,0,Normal,2,2,2,1
+MidleAge,0,2,Normal,Normal,0,0,High,0,Low,1,0,2,1
+MidleAge,0,0,Normal,High Risk,0,0,Low,0,Normal,1,0,2,1
+MidleAge,1,0,Normal,High Risk,1,1,Normal,0,Low,2,3,3,1
+MidleAge,0,0,High,High Risk,0,1,Low,1,Low,1,0,3,0
+Adult,0,2,Normal,Normal,0,1,High,0,Low,1,0,2,1
+Old,0,2,High,Normal,0,2,Low,0,Normal,1,0,2,1
+MidleAge,1,0,Normal,Extreme,0,0,Low,1,High,1,2,3,0
+MidleAge,0,2,Normal,Normal,1,1,Low,0,Low,2,0,2,1
+MidleAge,1,0,High,High Risk,1,0,Normal,1,High,0,0,3,0
+MidleAge,1,1,Normal,Extreme,0,1,High,0,Low,2,0,2,1
+Adult,1,2,Normal,Normal,0,1,High,0,Low,2,4,2,1
+MidleAge,1,2,High,Normal,1,1,High,0,Low,2,0,3,1
+MidleAge,1,3,Normal,Normal,0,0,High,0,Low,1,0,1,1
+MidleAge,1,2,Normal,High Risk,1,0,High,0,Normal,1,0,2,1
+Adult,1,0,Normal,High Risk,0,1,Normal,0,Low,2,0,3,1
+Adult,1,0,Normal,High Risk,0,1,Normal,0,Normal,1,0,3,0
+MidleAge,0,0,Normal,Extreme,0,1,High,1,Normal,1,2,2,0
+MidleAge,1,1,Normal,High Risk,1,1,High,0,Low,2,0,2,1
+Adult,1,0,Normal,Normal,0,0,High,0,Low,2,1,2,0
+MidleAge,1,0,High,Extreme,0,0,Normal,1,Low,1,3,3,0
+MidleAge,1,0,High,Normal,0,1,Normal,0,Low,1,0,1,1
+Adult,1,0,Normal,High Risk,0,1,Normal,0,Normal,1,0,3,0
+Old,0,0,Normal,High Risk,0,1,Normal,0,Low,2,2,2,1
+MidleAge,1,0,Normal,Extreme,0,1,Low,1,Low,1,1,3,1
+MidleAge,1,0,Normal,High Risk,0,1,Normal,0,Low,1,0,3,1
+MidleAge,1,2,Normal,High Risk,0,1,Normal,0,Normal,1,3,3,1
+MidleAge,0,0,High,Extreme,0,2,Low,1,High,1,0,2,0
+MidleAge,1,1,High,High Risk,0,0,High,0,Low,2,1,2,0
+MidleAge,1,0,High,Extreme,0,0,High,0,Normal,1,2,3,0
+Old,0,1,High,Extreme,0,1,High,0,Low,2,2,2,1
+MidleAge,1,1,Normal,High Risk,0,1,High,0,Low,2,0,2,1
+MidleAge,1,0,Normal,High Risk,1,1,Normal,1,Normal,2,2,3,0
+MidleAge,0,0,Normal,Extreme,0,0,Normal,0,Low,2,0,2,1
+Adult,1,0,Normal,High Risk,1,0,Normal,1,Low,1,4,3,0
+MidleAge,1,0,Normal,High Risk,0,0,Normal,1,Normal,1,1,3,0
+Adult,1,1,Normal,Extreme,0,1,High,0,Low,2,0,3,1
+MidleAge,0,0,Normal,Extreme,0,0,Normal,1,Normal,1,2,3,0
+MidleAge,1,0,Normal,Normal,0,1,Low,0,Normal,1,1,3,0
+Adult,1,0,Normal,Extreme,0,1,Low,1,Normal,1,0,1,0
+Old,1,0,Normal,Extreme,1,1,High,0,Low,1,2,3,0
+MidleAge,1,0,High,High Risk,0,0,Low,0,Normal,1,2,1,0
+Adult,1,0,High,High Risk,0,1,High,0,Low,2,0,2,1
+Old,1,0,Normal,High Risk,0,0,Low,1,Low,2,1,2,0
+MidleAge,1,0,Normal,High Risk,1,1,Normal,0,Low,2,3,3,1
+MidleAge,0,2,High,Extreme,0,0,Normal,0,Normal,2,1,2,1
+MidleAge,0,0,Normal,High Risk,0,2,Low,1,Normal,1,1,3,0
+MidleAge,1,2,High,High Risk,1,0,High,0,Low,2,0,2,1
+MidleAge,1,3,Normal,Normal,0,0,High,0,Normal,1,0,3,1
+Adult,1,1,Normal,Extreme,0,1,High,0,Low,2,0,2,1
+Adult,1,0,High,High Risk,0,1,High,0,Low,2,0,3,0
+MidleAge,1,0,High,Extreme,0,1,High,1,Normal,2,0,3,0
+MidleAge,1,1,Normal,Extreme,0,0,High,0,Low,2,0,2,1
+MidleAge,1,1,Normal,High Risk,0,1,High,0,Normal,0,0,3,0
+MidleAge,1,0,Normal,Extreme,0,2,Normal,0,High,0,3,1,0
+Adult,0,2,Normal,Normal,0,1,High,0,Low,1,0,2,1
+MidleAge,1,0,Normal,High Risk,0,0,Low,1,Normal,1,3,3,0
+Old,1,3,Normal,Extreme,1,0,High,0,Normal,1,1,2,0
+MidleAge,1,0,Normal,Extreme,0,1,Low,1,Normal,1,2,3,0
+Adult,1,0,Normal,Normal,0,0,Normal,0,Low,2,0,3,0
+MidleAge,1,0,Normal,High Risk,0,1,Normal,0,Low,2,0,2,1
+MidleAge,1,1,High,High Risk,0,1,High,1,Low,2,0,2,1
+MidleAge,1,0,Normal,Extreme,0,0,Normal,1,High,1,1,3,0
+MidleAge,1,0,Normal,Extreme,0,0,Low,1,Normal,1,1,2,0
+MidleAge,0,0,Normal,Extreme,0,0,Normal,0,Low,2,0,2,1
+MidleAge,1,0,Normal,Normal,0,1,Low,0,Normal,1,1,3,0
